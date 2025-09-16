@@ -1,0 +1,10 @@
+[project]
+name = "browser-use-intro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "browser-use>=0.7.7",
+    "browser-use-sdk>=2.0.4",
+]
