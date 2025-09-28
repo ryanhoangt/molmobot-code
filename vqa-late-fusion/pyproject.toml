@@ -1,0 +1,16 @@
+[project]
+name = "vqa-late-fusion"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "datasets>=4.1.1",
+    "matplotlib>=3.10.6",
+    "pandas>=2.3.2",
+    "scikit-learn>=1.7.2",
+    "torch>=2.8.0",
+    "torchvision>=0.23.0",
+    "transformers>=4.56.2",
+    "wandb>=0.22.0",
+]
